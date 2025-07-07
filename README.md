@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Lucas Martins! 👋
+
+I'm currently a student pursuing a degree in Systems Analysis and Development. I'm passionate about building solutions that solve real-world problems and I'm always eager to learn new technologies.
 
 
 ## 🌐 Socials:
